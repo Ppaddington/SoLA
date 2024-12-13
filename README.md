@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-<img width="100%" alt="image" src="data/overview.png">    
+<img width="100%" alt="image" src="data/overview.jpg">    
 </p>
 
 ## Usage
