@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+build/
+__pycache__/
+sola/__pycache__/
+sola_neuron_idx/__pycache__/
